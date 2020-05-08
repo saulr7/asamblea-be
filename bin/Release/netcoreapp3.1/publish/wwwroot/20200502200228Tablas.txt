@@ -1,0 +1,11 @@
+
+
+
+IdMCI
+MCI
+IdMP
+MP
+MetaMCI
+ResultadoMCI
+MetaMP
+ResultadoMP
